@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="./resources/pixeltap-logo.jpg" width="144"/>](https://t.me/pixelversexyzbot)
+[<img src="./resources/pixeltap.jpg" width="144"/>](https://t.me/pixelversexyzbot)
 
   <h1 align="center">Auto Bot for battles in PixelTap game.</h1>
   
